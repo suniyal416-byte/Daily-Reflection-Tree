@@ -1,0 +1,519 @@
+date,reflection,mood,energy,productivity,tags
+2025-01-30,"Spent some time reviewing machine learning, mostly going over gradient descent again.",5,7,7,coding
+2025-01-31,Tried to study data visualization today but kept getting stuck on overfitting and felt frustrated. Need to get more rest tonight.,1,3,2,"python, study, data science"
+2025-02-01,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Nothing particularly stands out about today.",5,7,6,"weekend, rest"
+2025-02-02,Read through some notes on feature engineering but didn't get much hands-on SQL practice done.,7,7,4,study
+2025-02-04,Thinking about the exam a lot today but haven't really started preparing yet. Nothing particularly stands out about today.,5,7,6,"stress, anxiety"
+2025-02-05,"Quiet day, spoke with an old friend for a bit over the phone. Nothing particularly stands out about today.",5,7,5,"family, weekend"
+2025-02-06,"Did a light walk session, nothing intense, just kept the habit going. Nothing particularly stands out about today.",4,5,5,"health, wellbeing"
+2025-02-07,"Thought about picking reading back up today but didn't get to it. A fairly typical day, all things considered.",7,9,6,"creativity, reading"
+2025-02-08,"Looked into travel options for a new part of the city, nothing booked yet. A fairly typical day, all things considered.",4,6,6,"adventure, weekend, travel"
+2025-02-09,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Just an ordinary day overall.",5,5,6,relaxation
+2025-02-10,"Spent the evening on writing, completely lost track of time — it was exactly what I needed. Looking forward to more days like this.",7,6,7,"hobbies, music"
+2025-02-11,"The exam is coming up soon, feeling a mix of nervous and okay about it. Thinking about the job interview a lot today but haven't really started preparing yet. Ready to see what tomorrow brings.",6,7,6,deadline
+2025-02-12,"Took a short trip to the countryside today, it was a nice change of scenery and really refreshing. Explored the countryside for the first time — such a great way to break the routine. Grateful for how the day turned out.",7,7,8,"adventure, travel"
+2025-02-13,Missed a call from my parents and felt a bit guilty about not making more time for them lately. Need to get more rest tonight.,3,3,3,family
+2025-02-14,Did a bit of writing but got distracted halfway through. Thought about picking photography back up today but didn't get to it. Ready to see what tomorrow brings.,6,4,6,"reading, music"
+2025-02-15,"Slept badly last night and it affected the whole day. Couldn't really relax today even though I had the time, mind was too restless.",3,3,3,"rest, sleep, weekend"
+2025-02-18,"Did a light run session, nothing intense, just kept the habit going. Just an ordinary day overall.",7,6,6,"health, fitness"
+2025-02-19,"Despite the upcoming assignment due date, I felt in control today and made good progress preparing for it.",7,5,6,"anxiety, exam"
+2025-02-20,Struggled a lot with hypothesis testing — statistics is starting to feel overwhelming.,5,4,5,learning
+2025-02-22,Did a bit of playing guitar but got distracted halfway through. Ready to see what tomorrow brings.,5,6,4,"creativity, hobbies"
+2025-02-23,Had a lovely time with my sibling — we went for a long walk and it lifted my mood a lot. Ending the day in a good mood.,6,6,5,family
+2025-02-24,Wanted to spend time on writing today but couldn't find the motivation.,4,3,4,"hobbies, creativity, reading"
+2025-02-26,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Ready to see what tomorrow brings.",7,7,6,"relaxation, sleep"
+2025-02-27,"Read through some notes on joins but didn't get much hands-on pandas practice done. Spent some time reviewing Python, mostly going over feature engineering again.",5,3,3,"learning, coding"
+2025-02-28,"Barely got through any machine learning today, my focus on hypothesis testing kept slipping. Need to get more rest tonight.",2,4,2,coding
+2025-03-01,"Looked into travel options for a new part of the city, nothing booked yet. Thinking about planning a trip to the coast sometime soon, haven't decided yet. Ready to see what tomorrow brings.",6,5,5,"adventure, weekend"
+2025-03-02,"Couldn't really relax today even though I had the time, mind was too restless.",4,3,3,rest
+2025-03-03,"Managed to fit in a good run session, my energy levels were noticeably higher afterward.",5,7,7,"fitness, health"
+2025-03-04,"Did a light swim session, nothing intense, just kept the habit going. Just an ordinary day overall.",3,5,4,"fitness, health"
+2025-03-05,"Looked into travel options for the coast, nothing booked yet.",6,8,6,"travel, weekend"
+2025-03-06,Rough day at work — a few pending tickets kept getting delayed and I felt behind the whole time.,4,4,6,work
+2025-03-07,I made real progress on pandas today — hypothesis testing finally clicked after struggling with it for a while.,7,9,5,"coding, learning, study"
+2025-03-09,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",4,5,3,"sleep, rest"
+2025-03-11,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Nothing particularly stands out about today.",6,5,5,weekend
+2025-03-12,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",7,9,10,"relaxation, rest"
+2025-03-13,"Did a bit of pandas practice today, nothing major, just consolidating correlation vs causation. Read through some notes on joins but didn't get much hands-on machine learning practice done. Just an ordinary day overall.",5,3,7,"learning, study, coding"
+2025-03-14,Slept badly last night and it affected the whole day.,4,4,4,"relaxation, rest"
+2025-03-15,Went for a yoga session this morning and felt really energized for the rest of the day. Ending the day in a good mood.,8,7,5,"fitness, health, wellbeing"
+2025-03-16,Missed a call from my family and felt a bit guilty about not making more time for them lately. Had a small disagreement with my sibling today which put a bit of a damper on the day. Today was harder than expected.,3,3,5,"family, friends, relationships"
+2025-03-17,"Thinking about the job interview a lot today but haven't really started preparing yet. A fairly typical day, all things considered.",6,5,4,"stress, deadline"
+2025-03-18,"Woke up tired and skipped walk entirely, energy was low all day. Didn't get any yoga session in today and felt sluggish because of it.",3,7,3,"wellbeing, fitness"
+2025-03-19,Managed my anxiety about the presentation well today by breaking the work into smaller pieces.,6,8,7,deadline
+2025-03-20,"Quiet day, spoke with a close friend for a bit over the phone. Saw a close friend briefly today, exchanged a few messages, nothing major.",5,5,6,"friends, weekend, family"
+2025-03-21,"The project deadline is coming up soon, feeling a mix of nervous and okay about it. Thinking about the job interview a lot today but haven't really started preparing yet. Nothing particularly stands out about today.",3,3,5,"stress, anxiety"
+2025-03-22,"Managed to fit in a good walk session, my energy levels were noticeably higher afterward.",9,8,8,"wellbeing, exercise"
+2025-03-23,"Had a really productive day at work — cleared most of my a few pending tickets and even helped a coworker with theirs. Good day overall, made solid progress on a backlog of emails and the team meeting went smoothly. Ending the day in a good mood.",9,8,9,"work, productivity, meetings"
+2025-03-24,"Had a productive study session on pandas, especially around overfitting.",8,7,5,"study, coding"
+2025-03-25,"Woke up tired and skipped walk entirely, energy was low all day. Need to get more rest tonight.",5,6,3,"wellbeing, fitness"
+2025-03-26,"Quiet day, spoke with my parents for a bit over the phone. Saw my parents briefly today, exchanged a few messages, nothing major. Just an ordinary day overall.",6,3,4,"friends, family"
+2025-03-27,"Spent some time reviewing statistics, mostly going over hypothesis testing again. Ready to see what tomorrow brings.",6,6,6,"learning, python, study"
+2025-03-28,"Thinking about planning a trip to a local market sometime soon, haven't decided yet. Looked into travel options for the nearby hill station, nothing booked yet.",8,6,7,"weekend, adventure"
+2025-03-29,Wanted to spend time on writing today but couldn't find the motivation. Trying not to be too hard on myself about it.,3,2,1,"hobbies, reading, music"
+2025-03-30,Wanted to spend time on writing today but couldn't find the motivation.,4,5,2,creativity
+2025-03-31,"The project deadline is coming up soon, feeling a mix of nervous and okay about it.",5,5,7,"stress, exam"
+2025-04-01,"Spent most of the day on a few pending tickets, nothing particularly noteworthy happened. Ready to see what tomorrow brings.",8,6,6,"work, career"
+2025-04-03,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,5,4,rest
+2025-04-04,"Fairly average day at work, mostly just handled a backlog of emails without much excitement. Just an ordinary day overall.",6,9,8,"meetings, productivity"
+2025-04-05,"Did a light yoga session session, nothing intense, just kept the habit going. Skipped my usual run today but ate reasonably well.",4,3,3,"wellbeing, exercise"
+2025-04-06,"Saw my parents briefly today, exchanged a few messages, nothing major. Quiet day, spoke with my sibling for a bit over the phone.",8,5,5,weekend
+2025-04-07,Anxiety about the job interview made it hard to get anything meaningful done today. Trying not to be too hard on myself about it.,2,1,2,"stress, exam, deadline"
+2025-04-08,Wanted to spend time on writing today but couldn't find the motivation. Today was harder than expected.,3,1,2,"creativity, reading, music"
+2025-04-09,"Finished a few pending tickets ahead of schedule today, which felt great going into the weekend. Looking forward to more days like this.",7,7,10,"productivity, work, career"
+2025-04-10,Worked through a tricky problem involving joins and felt genuinely satisfied once it worked. Ending the day in a good mood.,9,9,10,"coding, learning"
+2025-04-11,"Good day overall, made solid progress on a few pending tickets and the team meeting went smoothly.",8,9,10,"meetings, productivity"
+2025-04-12,Went for a yoga session this morning and felt really energized for the rest of the day. Overall a pretty good day.,7,7,5,"fitness, exercise"
+2025-04-13,"Quiet day, spoke with a close friend for a bit over the phone. Saw my parents briefly today, exchanged a few messages, nothing major. Nothing particularly stands out about today.",6,6,4,friends
+2025-04-14,"Thinking about planning a trip to a new part of the city sometime soon, haven't decided yet. Looked into travel options for a local market, nothing booked yet. A fairly typical day, all things considered.",7,7,7,travel
+2025-04-15,"Fairly average day at work, mostly just handled the project deadline without much excitement. Just an ordinary day overall.",6,5,6,productivity
+2025-04-16,"Spent some time reviewing Python, mostly going over overfitting again. Ready to see what tomorrow brings.",8,7,6,"data science, python, learning"
+2025-04-17,Wanted to spend time on writing today but couldn't find the motivation.,3,6,5,reading
+2025-04-18,"Did a light gym workout session, nothing intense, just kept the habit going. Ready to see what tomorrow brings.",4,7,7,"wellbeing, exercise"
+2025-04-19,Missed a call from my sibling and felt a bit guilty about not making more time for them lately. Had a small disagreement with my sibling today which put a bit of a damper on the day. Hoping tomorrow goes a bit better.,4,5,4,"friends, relationships"
+2025-04-20,"Fairly average day at work, mostly just handled a backlog of emails without much excitement. Ready to see what tomorrow brings.",5,5,5,"productivity, work, meetings"
+2025-04-21,Had a really productive day at work — cleared most of my a backlog of emails and even helped a coworker with theirs.,5,8,8,"meetings, work"
+2025-04-22,"Thinking about the exam a lot today but haven't really started preparing yet. A fairly typical day, all things considered.",6,4,7,"anxiety, stress"
+2025-04-23,"Finished the project deadline ahead of schedule today, which felt great going into the weekend.",7,10,8,"work, productivity, meetings"
+2025-04-24,"Looked into travel options for the nearby hill station, nothing booked yet. Thinking about planning a trip to a new part of the city sometime soon, haven't decided yet.",5,5,8,adventure
+2025-04-25,Skipped my usual swim today but ate reasonably well.,8,8,7,"exercise, fitness"
+2025-04-26,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Grateful for how the day turned out.",9,10,8,"rest, sleep"
+2025-04-27,Thought about picking photography back up today but didn't get to it. Just an ordinary day overall.,6,8,4,"music, reading"
+2025-04-28,"Took a short trip to a local market today, it was a nice change of scenery and really refreshing. Explored the nearby hill station for the first time — such a great way to break the routine. Grateful for how the day turned out.",7,8,8,"adventure, weekend, travel"
+2025-04-29,"Managed to fit in a good walk session, my energy levels were noticeably higher afterward. Ending the day in a good mood.",9,7,9,"exercise, wellbeing"
+2025-04-30,Didn't get any run in today and felt sluggish because of it.,4,6,5,exercise
+2025-05-01,"Anxiety about the presentation made it hard to get anything meaningful done today. The presentation is weighing on me a lot, didn't sleep well because of it.",3,4,3,"anxiety, deadline"
+2025-05-02,"Felt pretty drained after dealing with the quarterly report, didn't get much else done. Rough day at work — a client presentation kept getting delayed and I felt behind the whole time.",5,6,5,"productivity, meetings, career"
+2025-05-03,Missed a call from an old friend and felt a bit guilty about not making more time for them lately. Trying not to be too hard on myself about it.,2,2,2,"weekend, relationships"
+2025-05-04,Went for a gym workout this morning and felt really energized for the rest of the day.,6,7,8,"wellbeing, health"
+2025-05-05,Missed a call from an old friend and felt a bit guilty about not making more time for them lately.,5,4,5,friends
+2025-05-06,"Woke up tired and skipped run entirely, energy was low all day.",5,6,5,"health, fitness, wellbeing"
+2025-05-07,Thinking about the presentation a lot today but haven't really started preparing yet.,6,5,6,"deadline, anxiety"
+2025-05-08,"The job interview is coming up soon, feeling a mix of nervous and okay about it.",6,7,4,"stress, deadline, anxiety"
+2025-05-09,Thinking about the exam a lot today but haven't really started preparing yet. Just an ordinary day overall.,7,4,4,anxiety
+2025-05-10,"Saw my parents briefly today, exchanged a few messages, nothing major.",7,6,7,"weekend, friends"
+2025-05-11,"Great day with an old friend, nothing planned but it turned out to be one of the better days recently. Feeling optimistic about tomorrow.",8,8,10,"friends, relationships, family"
+2025-05-12,"The exam is coming up soon, feeling a mix of nervous and okay about it.",3,8,5,"deadline, anxiety, stress"
+2025-05-14,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",7,4,4,"weekend, rest, relaxation"
+2025-05-15,"Barely got through any SQL today, my focus on overfitting kept slipping. Today was harder than expected.",2,4,4,study
+2025-05-16,"Did a light yoga session session, nothing intense, just kept the habit going. Skipped my usual gym workout today but ate reasonably well.",4,3,6,"exercise, fitness"
+2025-05-17,"Saw my family briefly today, exchanged a few messages, nothing major. Quiet day, spoke with my parents for a bit over the phone.",6,6,5,weekend
+2025-05-18,Worked through a tricky problem involving correlation vs causation and felt genuinely satisfied once it worked. Overall a pretty good day.,7,8,5,"coding, data science"
+2025-05-19,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,7,5,"weekend, sleep, relaxation"
+2025-05-20,"Saw an old friend briefly today, exchanged a few messages, nothing major.",6,6,8,"weekend, family, friends"
+2025-05-22,Missed a call from my parents and felt a bit guilty about not making more time for them lately. Had a small disagreement with my family today which put a bit of a damper on the day.,1,1,1,"family, weekend, friends"
+2025-05-23,"Felt pretty drained after dealing with a few pending tickets, didn't get much else done.",5,4,4,"meetings, work"
+2025-05-24,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Overall a pretty good day.",9,7,9,"sleep, relaxation"
+2025-05-25,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",5,6,4,"sleep, weekend"
+2025-05-26,Missed a call from my family and felt a bit guilty about not making more time for them lately.,4,5,7,"relationships, friends"
+2025-05-27,Wanted to spend time on photography today but couldn't find the motivation.,3,2,4,"hobbies, reading"
+2025-05-28,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",3,6,4,rest
+2025-05-29,"Fairly average day at work, mostly just handled the quarterly report without much excitement.",3,4,5,"career, work"
+2025-05-30,"Spent some time reviewing machine learning, mostly going over gradient descent again. Did a bit of data visualization practice today, nothing major, just consolidating joins.",5,6,7,learning
+2025-05-31,Skipped my usual run today but ate reasonably well. Just an ordinary day overall.,4,7,4,"wellbeing, fitness"
+2025-06-01,Worked through a tricky problem involving overfitting and felt genuinely satisfied once it worked.,8,8,7,"coding, python, data science"
+2025-06-03,"Made good progress on reading today, felt really fulfilling. Spent the evening on reading, completely lost track of time — it was exactly what I needed.",10,9,9,"creativity, music, hobbies"
+2025-06-04,"Took a proper rest day today, slept well and just recharged — much needed. Overall a pretty good day.",7,8,8,relaxation
+2025-06-05,"The assignment due date is coming up soon, feeling a mix of nervous and okay about it. Thinking about the assignment due date a lot today but haven't really started preparing yet. Ready to see what tomorrow brings.",5,4,4,stress
+2025-06-06,Anxiety about the presentation made it hard to get anything meaningful done today. Feeling really stressed about the presentation — couldn't focus on much else today.,3,3,7,"deadline, exam, anxiety"
+2025-06-07,Worked through a tricky problem involving correlation vs causation and felt genuinely satisfied once it worked. Overall a pretty good day.,6,8,6,"learning, coding, study"
+2025-06-08,"Did a bit of data visualization practice today, nothing major, just consolidating feature engineering. Spent some time reviewing data visualization, mostly going over overfitting again.",6,7,5,study
+2025-06-09,"Despite the upcoming job interview, I felt in control today and made good progress preparing for it.",6,7,10,"stress, deadline"
+2025-06-10,"Spent some time reviewing Python, mostly going over joins again.",8,6,7,"learning, data science"
+2025-06-11,"Did a bit of reading but got distracted halfway through. Thought about picking playing guitar back up today but didn't get to it. A fairly typical day, all things considered.",5,4,6,"music, hobbies"
+2025-06-12,Struggled a lot with correlation vs causation — machine learning is starting to feel overwhelming. Tried to study pandas today but kept getting stuck on feature engineering and felt frustrated. Need to get more rest tonight.,5,6,5,"study, coding, python"
+2025-06-13,"Fairly average day at work, mostly just handled the quarterly report without much excitement. Just an ordinary day overall.",5,4,6,productivity
+2025-06-14,"Woke up tired and skipped yoga session entirely, energy was low all day. Didn't get any gym workout in today and felt sluggish because of it.",3,1,1,fitness
+2025-06-15,"Great day with my sibling, nothing planned but it turned out to be one of the better days recently. Had a lovely time with my parents — we went for a long walk and it lifted my mood a lot. Ending the day in a good mood.",9,7,5,family
+2025-06-16,Slept badly last night and it affected the whole day. Hoping tomorrow goes a bit better.,1,4,2,sleep
+2025-06-17,"Barely got through any pandas today, my focus on gradient descent kept slipping.",4,2,4,"learning, study"
+2025-06-18,"Did a bit of Python practice today, nothing major, just consolidating joins.",5,6,6,"study, data science, learning"
+2025-06-19,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,8,9,"rest, relaxation"
+2025-06-20,"Struggled to focus on a few pending tickets today, kept getting pulled into unnecessary meetings. Rough day at work — a client presentation kept getting delayed and I felt behind the whole time.",3,6,4,"productivity, work"
+2025-06-22,Managed my anxiety about the job interview well today by breaking the work into smaller pieces.,8,10,7,"exam, stress"
+2025-06-23,"Fairly average day at work, mostly just handled a backlog of emails without much excitement. Spent most of the day on a few pending tickets, nothing particularly noteworthy happened.",8,6,5,"productivity, meetings, career"
+2025-06-24,Read through some notes on joins but didn't get much hands-on SQL practice done.,5,3,6,"coding, learning"
+2025-06-25,"Quiet day, spoke with my parents for a bit over the phone. Just an ordinary day overall.",6,1,4,"relationships, weekend, family"
+2025-06-26,Wanted to spend time on sketching today but couldn't find the motivation.,2,3,3,"hobbies, reading"
+2025-06-27,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",4,5,4,"rest, sleep"
+2025-06-28,"Took a proper rest day today, slept well and just recharged — much needed. Did absolutely nothing productive today and it felt great, exactly the break I needed. Grateful for how the day turned out.",8,7,7,"sleep, relaxation, rest"
+2025-06-29,Explored the nearby hill station for the first time — such a great way to break the routine.,9,7,6,"weekend, adventure, travel"
+2025-06-30,Skipped my usual yoga session today but ate reasonably well.,3,3,3,"exercise, fitness, health"
+2025-07-01,"Saw my sibling briefly today, exchanged a few messages, nothing major. Ready to see what tomorrow brings.",6,5,4,"family, friends"
+2025-07-02,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Overall a pretty good day.",8,7,6,"rest, relaxation"
+2025-07-03,Today I spent a few hours learning SQL and finally understood how overfitting works. Worked through a tricky problem involving gradient descent and felt genuinely satisfied once it worked.,7,5,7,"python, coding"
+2025-07-04,"Looked into travel options for the nearby hill station, nothing booked yet. Nothing particularly stands out about today.",5,6,4,"adventure, weekend, travel"
+2025-07-05,"Spent quality time with my parents today, it was really nice to just relax and catch up.",10,8,8,"relationships, friends, weekend"
+2025-07-06,Didn't get any swim in today and felt sluggish because of it. Today was harder than expected.,1,2,1,wellbeing
+2025-07-07,"Did a light yoga session session, nothing intense, just kept the habit going. Nothing particularly stands out about today.",8,5,5,"wellbeing, fitness"
+2025-07-08,"Quiet day, spoke with my parents for a bit over the phone.",8,4,6,"family, friends, weekend"
+2025-07-09,"Took a proper rest day today, slept well and just recharged — much needed. Feeling optimistic about tomorrow.",7,7,8,"relaxation, rest"
+2025-07-11,"Quiet day, spoke with a close friend for a bit over the phone.",6,5,3,family
+2025-07-12,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Took a proper rest day today, slept well and just recharged — much needed.",6,8,5,"weekend, rest"
+2025-07-14,Did a bit of reading but got distracted halfway through.,5,6,5,"hobbies, music, creativity"
+2025-07-15,"Felt pretty drained after dealing with a client presentation, didn't get much else done. Trying not to be too hard on myself about it.",3,1,3,"work, productivity"
+2025-07-16,"Barely got through any statistics today, my focus on hypothesis testing kept slipping. Tried to study Python today but kept getting stuck on correlation vs causation and felt frustrated. Today was harder than expected.",3,2,1,"learning, data science"
+2025-07-17,"Fairly average day at work, mostly just handled a backlog of emails without much excitement. Spent most of the day on the quarterly report, nothing particularly noteworthy happened. A fairly typical day, all things considered.",7,5,8,"meetings, productivity"
+2025-07-18,"Spent some time reviewing pandas, mostly going over hypothesis testing again. Nothing particularly stands out about today.",5,5,4,python
+2025-07-19,"Great day with a close friend, nothing planned but it turned out to be one of the better days recently.",6,6,8,"weekend, family, relationships"
+2025-07-20,"Fairly lazy day overall, mixed a bit of rest with a few small chores. A fairly typical day, all things considered.",2,7,7,"sleep, weekend, relaxation"
+2025-07-21,"Quiet day, spoke with a close friend for a bit over the phone. A fairly typical day, all things considered.",3,4,4,relationships
+2025-07-23,"Thought about picking reading back up today but didn't get to it. Did a bit of reading but got distracted halfway through. A fairly typical day, all things considered.",4,6,6,"creativity, music"
+2025-07-24,Struggled a lot with feature engineering — statistics is starting to feel overwhelming.,4,6,3,"coding, study"
+2025-07-25,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",4,5,3,"weekend, sleep, rest"
+2025-07-26,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled the quarterly report without much excitement. A fairly typical day, all things considered.",6,8,5,"meetings, productivity"
+2025-07-28,Had a lovely time with a close friend — we went for a long walk and it lifted my mood a lot.,7,9,9,"relationships, friends"
+2025-07-29,"Fairly average day at work, mostly just handled a backlog of emails without much excitement.",5,6,4,"work, career, productivity"
+2025-07-30,"Struggled to focus on a backlog of emails today, kept getting pulled into unnecessary meetings. Felt pretty drained after dealing with the quarterly report, didn't get much else done. Hoping tomorrow goes a bit better.",3,1,2,"career, productivity, meetings"
+2025-07-31,Thought about picking reading back up today but didn't get to it.,3,3,6,"music, hobbies"
+2025-08-01,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",2,6,5,"rest, sleep"
+2025-08-02,"Saw my parents briefly today, exchanged a few messages, nothing major.",3,6,4,"relationships, weekend"
+2025-08-03,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Looking forward to more days like this.",10,10,9,"sleep, weekend, rest"
+2025-08-04,"Finished a few pending tickets ahead of schedule today, which felt great going into the weekend.",8,9,7,"career, productivity"
+2025-08-05,"Did a bit of data visualization practice today, nothing major, just consolidating feature engineering.",5,6,7,"data science, python"
+2025-08-06,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",4,5,5,"rest, relaxation"
+2025-08-07,"Took a proper rest day today, slept well and just recharged — much needed.",4,6,6,relaxation
+2025-08-08,"Woke up tired and skipped swim entirely, energy was low all day. Hoping tomorrow goes a bit better.",1,1,2,health
+2025-08-09,"Spent the evening on photography, completely lost track of time — it was exactly what I needed. Feeling optimistic about tomorrow.",7,6,6,"music, creativity, reading"
+2025-08-10,"Made good progress on writing today, felt really fulfilling. Spent the evening on reading, completely lost track of time — it was exactly what I needed.",7,7,8,"creativity, reading"
+2025-08-11,"Fairly average day at work, mostly just handled a client presentation without much excitement. Spent most of the day on a client presentation, nothing particularly noteworthy happened.",6,5,7,"productivity, meetings"
+2025-08-12,Rough day at work — a client presentation kept getting delayed and I felt behind the whole time. Need to get more rest tonight.,4,4,2,work
+2025-08-13,Missed a call from an old friend and felt a bit guilty about not making more time for them lately. Had a small disagreement with my parents today which put a bit of a damper on the day.,3,2,2,"friends, family"
+2025-08-14,Skipped my usual walk today but ate reasonably well. Ready to see what tomorrow brings.,6,2,3,"exercise, health, wellbeing"
+2025-08-16,"Trip to the coast got cancelled today, which was disappointing.",6,5,5,weekend
+2025-08-17,Missed a call from my parents and felt a bit guilty about not making more time for them lately. Hoping tomorrow goes a bit better.,3,5,3,"weekend, relationships"
+2025-08-18,"Quiet day, spoke with my sibling for a bit over the phone.",6,7,7,friends
+2025-08-19,"Great day with my parents, nothing planned but it turned out to be one of the better days recently.",8,5,4,"relationships, weekend"
+2025-08-22,"Made good progress on photography today, felt really fulfilling. Spent the evening on photography, completely lost track of time — it was exactly what I needed. Ending the day in a good mood.",9,6,5,"reading, creativity"
+2025-08-23,Thought about picking photography back up today but didn't get to it.,7,9,6,"music, reading, hobbies"
+2025-08-24,"Looked into travel options for the nearby hill station, nothing booked yet.",4,5,4,"adventure, travel"
+2025-08-25,"Woke up tired and skipped gym workout entirely, energy was low all day.",6,6,6,"health, fitness"
+2025-08-26,Struggled a lot with hypothesis testing — SQL is starting to feel overwhelming. Need to get more rest tonight.,5,5,5,"coding, study, data science"
+2025-08-27,"Despite the upcoming presentation, I felt in control today and made good progress preparing for it. Managed my anxiety about the assignment due date well today by breaking the work into smaller pieces. Overall a pretty good day.",8,8,8,"deadline, anxiety, exam"
+2025-08-28,"Thought about picking playing guitar back up today but didn't get to it. Did a bit of playing guitar but got distracted halfway through. A fairly typical day, all things considered.",4,6,6,"music, reading"
+2025-08-29,"The presentation is weighing on me a lot, didn't sleep well because of it. Today was harder than expected.",5,6,5,"stress, deadline"
+2025-08-30,"Skipped my usual gym workout today but ate reasonably well. A fairly typical day, all things considered.",8,6,6,fitness
+2025-08-31,"Trip to a new part of the city got cancelled today, which was disappointing. Today was harder than expected.",5,4,2,"travel, adventure"
+2025-09-01,"Did a light swim session, nothing intense, just kept the habit going. Nothing particularly stands out about today.",5,8,7,health
+2025-09-02,Thinking about the exam a lot today but haven't really started preparing yet.,6,6,5,"anxiety, deadline"
+2025-09-03,"Couldn't really relax today even though I had the time, mind was too restless.",4,3,2,"weekend, relaxation"
+2025-09-04,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,4,6,relaxation
+2025-09-05,"Made good progress on writing today, felt really fulfilling. Grateful for how the day turned out.",8,9,7,hobbies
+2025-09-06,"Looked into travel options for a local market, nothing booked yet.",4,5,5,"travel, weekend, adventure"
+2025-09-07,"Good day overall, made solid progress on a few pending tickets and the team meeting went smoothly.",9,8,6,"work, productivity"
+2025-09-08,"Fairly average day at work, mostly just handled the project deadline without much excitement. Spent most of the day on a few pending tickets, nothing particularly noteworthy happened.",6,5,5,"work, career"
+2025-09-09,"Did a bit of SQL practice today, nothing major, just consolidating gradient descent. Ready to see what tomorrow brings.",5,5,6,"study, data science"
+2025-09-10,"Fairly average day at work, mostly just handled a client presentation without much excitement. Spent most of the day on a backlog of emails, nothing particularly noteworthy happened. Just an ordinary day overall.",5,5,4,"productivity, work, career"
+2025-09-11,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,3,2,"weekend, sleep"
+2025-09-12,"Couldn't really relax today even though I had the time, mind was too restless.",2,2,2,"sleep, weekend"
+2025-09-13,Felt physically great today after a solid gym workout routine. Went for a swim this morning and felt really energized for the rest of the day.,5,8,9,wellbeing
+2025-09-14,"Didn't get any swim in today and felt sluggish because of it. Woke up tired and skipped swim entirely, energy was low all day. Need to get more rest tonight.",4,3,3,"fitness, wellbeing"
+2025-09-15,"The assignment due date is coming up soon, feeling a mix of nervous and okay about it. Thinking about the presentation a lot today but haven't really started preparing yet.",6,7,5,"exam, deadline, anxiety"
+2025-09-16,Worked through a tricky problem involving correlation vs causation and felt genuinely satisfied once it worked. Grateful for how the day turned out.,9,10,9,python
+2025-09-17,Read through some notes on overfitting but didn't get much hands-on Python practice done.,7,10,7,study
+2025-09-19,"Looked into travel options for a local market, nothing booked yet. Thinking about planning a trip to a local market sometime soon, haven't decided yet.",6,4,4,"weekend, travel, adventure"
+2025-09-20,"Great day with a close friend, nothing planned but it turned out to be one of the better days recently.",7,8,7,"family, relationships"
+2025-09-21,"Felt physically great today after a solid swim routine. Managed to fit in a good walk session, my energy levels were noticeably higher afterward.",7,4,7,"wellbeing, exercise"
+2025-09-22,"Rough day at work — a few pending tickets kept getting delayed and I felt behind the whole time. Felt pretty drained after dealing with the project deadline, didn't get much else done.",3,4,4,career
+2025-09-23,Struggled a lot with correlation vs causation — data visualization is starting to feel overwhelming.,5,2,4,python
+2025-09-24,Had a small disagreement with my family today which put a bit of a damper on the day. Today was harder than expected.,4,5,3,"weekend, relationships"
+2025-09-25,Thinking about the job interview a lot today but haven't really started preparing yet.,7,4,4,"anxiety, exam"
+2025-09-26,"Did a light swim session, nothing intense, just kept the habit going. Skipped my usual walk today but ate reasonably well. A fairly typical day, all things considered.",5,5,6,"fitness, wellbeing, exercise"
+2025-09-27,"Quiet day, spoke with an old friend for a bit over the phone.",7,5,4,"friends, relationships"
+2025-09-28,"Trip to a local market got cancelled today, which was disappointing. Need to get more rest tonight.",5,6,3,"adventure, travel"
+2025-09-29,Wanted to spend time on reading today but couldn't find the motivation. Hoping tomorrow goes a bit better.,1,1,1,reading
+2025-09-30,"Didn't get any gym workout in today and felt sluggish because of it. Woke up tired and skipped yoga session entirely, energy was low all day. Hoping tomorrow goes a bit better.",4,4,6,"exercise, fitness"
+2025-10-01,"Couldn't really relax today even though I had the time, mind was too restless.",3,5,2,"sleep, rest"
+2025-10-02,"Looked into travel options for the countryside, nothing booked yet.",6,6,8,"weekend, adventure"
+2025-10-03,"Quiet day, spoke with my parents for a bit over the phone.",7,4,3,"weekend, friends"
+2025-10-05,Thought about picking photography back up today but didn't get to it.,5,5,6,"music, hobbies, creativity"
+2025-10-06,"Quiet day, spoke with my sibling for a bit over the phone.",6,8,8,"weekend, friends"
+2025-10-07,Managed my anxiety about the project deadline well today by breaking the work into smaller pieces.,9,10,6,"exam, stress"
+2025-10-08,"Saw my family briefly today, exchanged a few messages, nothing major. Quiet day, spoke with my family for a bit over the phone.",4,6,5,"friends, weekend, family"
+2025-10-10,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened.",7,5,6,"meetings, work, productivity"
+2025-10-11,Skipped my usual swim today but ate reasonably well.,6,6,5,wellbeing
+2025-10-12,"Took a proper rest day today, slept well and just recharged — much needed.",10,8,8,"relaxation, weekend"
+2025-10-13,Wanted to spend time on reading today but couldn't find the motivation. Trying not to be too hard on myself about it.,4,5,5,"reading, music, hobbies"
+2025-10-14,Did a bit of reading but got distracted halfway through. Ready to see what tomorrow brings.,7,6,7,"hobbies, music, creativity"
+2025-10-15,Read through some notes on overfitting but didn't get much hands-on SQL practice done.,6,6,2,coding
+2025-10-16,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled the quarterly report without much excitement.",2,4,7,"work, meetings"
+2025-10-17,"Fairly average day at work, mostly just handled a few pending tickets without much excitement.",5,5,8,"career, productivity"
+2025-10-18,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Nothing particularly stands out about today.",8,5,5,weekend
+2025-10-20,"Made good progress on sketching today, felt really fulfilling. Grateful for how the day turned out.",8,7,8,"creativity, hobbies, reading"
+2025-10-21,"Quiet day, spoke with my family for a bit over the phone.",4,5,5,"friends, weekend"
+2025-10-23,"Spent quality time with my parents today, it was really nice to just relax and catch up. Had a lovely time with my parents — we went for a long walk and it lifted my mood a lot. Grateful for how the day turned out.",7,7,7,"weekend, friends, family"
+2025-10-24,Read through some notes on overfitting but didn't get much hands-on data visualization practice done. Just an ordinary day overall.,7,5,5,data science
+2025-10-25,Explored the nearby hill station for the first time — such a great way to break the routine. Looking forward to more days like this.,7,6,8,adventure
+2025-10-26,"Took a proper rest day today, slept well and just recharged — much needed.",5,7,7,"relaxation, sleep"
+2025-10-27,"Saw a close friend briefly today, exchanged a few messages, nothing major. A fairly typical day, all things considered.",7,5,7,"family, friends, weekend"
+2025-10-28,"Thinking about planning a trip to a local market sometime soon, haven't decided yet. A fairly typical day, all things considered.",5,6,7,weekend
+2025-10-29,"Managed to fit in a good yoga session session, my energy levels were noticeably higher afterward. Ending the day in a good mood.",10,8,9,"fitness, exercise"
+2025-10-30,Managed my anxiety about the project deadline well today by breaking the work into smaller pieces.,7,7,8,"deadline, anxiety"
+2025-10-31,"Saw a close friend briefly today, exchanged a few messages, nothing major. Quiet day, spoke with my parents for a bit over the phone.",5,5,7,"weekend, family, relationships"
+2025-11-01,"Thinking about the project deadline a lot today but haven't really started preparing yet. The presentation is coming up soon, feeling a mix of nervous and okay about it.",6,7,5,anxiety
+2025-11-02,Had a really productive day at work — cleared most of my a client presentation and even helped a coworker with theirs.,8,6,8,"meetings, work, career"
+2025-11-03,"Quiet day, spoke with my sibling for a bit over the phone. A fairly typical day, all things considered.",3,4,4,family
+2025-11-04,Thinking about the assignment due date a lot today but haven't really started preparing yet. Ready to see what tomorrow brings.,5,5,6,"anxiety, stress"
+2025-11-06,"Did a light yoga session session, nothing intense, just kept the habit going. Skipped my usual walk today but ate reasonably well.",6,7,7,"fitness, health"
+2025-11-07,Rough day at work — a backlog of emails kept getting delayed and I felt behind the whole time. Today was harder than expected.,2,1,2,"career, productivity, meetings"
+2025-11-08,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled a client presentation without much excitement. Just an ordinary day overall.",7,7,5,productivity
+2025-11-09,"Thinking about planning a trip to the countryside sometime soon, haven't decided yet. Nothing particularly stands out about today.",6,4,4,"adventure, weekend"
+2025-11-10,"Good day overall, made solid progress on a backlog of emails and the team meeting went smoothly. Looking forward to more days like this.",6,8,8,"work, productivity, meetings"
+2025-11-11,Had a small disagreement with an old friend today which put a bit of a damper on the day. Hoping tomorrow goes a bit better.,5,5,4,friends
+2025-11-12,"Struggled to focus on a few pending tickets today, kept getting pulled into unnecessary meetings.",3,3,5,"meetings, productivity"
+2025-11-13,Struggled a lot with gradient descent — data visualization is starting to feel overwhelming.,4,2,4,"coding, learning"
+2025-11-14,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Nothing particularly stands out about today.",8,4,8,"meetings, productivity, work"
+2025-11-15,"Did a light swim session, nothing intense, just kept the habit going. A fairly typical day, all things considered.",7,6,6,"exercise, wellbeing"
+2025-11-16,"Thinking about planning a trip to a local market sometime soon, haven't decided yet. Ready to see what tomorrow brings.",7,5,7,"weekend, adventure, travel"
+2025-11-17,"Saw my sibling briefly today, exchanged a few messages, nothing major. Nothing particularly stands out about today.",4,3,5,"family, friends"
+2025-11-18,"Good day overall, made solid progress on a few pending tickets and the team meeting went smoothly.",8,7,6,work
+2025-11-19,"Did a light walk session, nothing intense, just kept the habit going.",4,4,6,"health, fitness, wellbeing"
+2025-11-20,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Feeling optimistic about tomorrow.",10,7,10,"rest, sleep, weekend"
+2025-11-21,Skipped my usual gym workout today but ate reasonably well.,6,7,6,"exercise, health"
+2025-11-22,"Thinking about the job interview a lot today but haven't really started preparing yet. The job interview is coming up soon, feeling a mix of nervous and okay about it.",6,4,4,exam
+2025-11-23,"Made good progress on playing guitar today, felt really fulfilling.",7,6,6,"reading, hobbies"
+2025-11-24,"Made good progress on playing guitar today, felt really fulfilling. Spent the evening on photography, completely lost track of time — it was exactly what I needed.",7,6,9,"creativity, reading, hobbies"
+2025-11-25,"Did absolutely nothing productive today and it felt great, exactly the break I needed.",9,10,10,"weekend, relaxation"
+2025-11-26,"Good day overall, made solid progress on the quarterly report and the team meeting went smoothly.",8,9,9,"productivity, work, career"
+2025-11-27,Missed a call from my parents and felt a bit guilty about not making more time for them lately. Today was harder than expected.,5,2,3,"friends, weekend"
+2025-11-28,"Spent the evening on reading, completely lost track of time — it was exactly what I needed. Made good progress on writing today, felt really fulfilling. Overall a pretty good day.",8,9,7,"creativity, hobbies, reading"
+2025-11-29,Wanted to spend time on playing guitar today but couldn't find the motivation.,4,5,4,"hobbies, music"
+2025-11-30,I made real progress on statistics today — correlation vs causation finally clicked after struggling with it for a while. Today I spent a few hours learning SQL and finally understood how correlation vs causation works.,7,8,6,"study, learning"
+2025-12-01,"Spent some time reviewing machine learning, mostly going over overfitting again. Ready to see what tomorrow brings.",7,6,6,learning
+2025-12-02,Did a bit of writing but got distracted halfway through. Ready to see what tomorrow brings.,5,8,5,hobbies
+2025-12-03,"Fairly average day at work, mostly just handled a few pending tickets without much excitement.",3,4,5,"career, work"
+2025-12-04,Tried to study SQL today but kept getting stuck on correlation vs causation and felt frustrated. Struggled a lot with correlation vs causation — machine learning is starting to feel overwhelming.,6,4,6,"coding, study, learning"
+2025-12-05,Read through some notes on hypothesis testing but didn't get much hands-on pandas practice done. Ready to see what tomorrow brings.,5,5,6,"python, coding"
+2025-12-06,"Worked through a tricky problem involving feature engineering and felt genuinely satisfied once it worked. Had a productive study session on pandas, especially around joins. Ending the day in a good mood.",6,6,7,"study, data science"
+2025-12-07,Thought about picking writing back up today but didn't get to it. Ready to see what tomorrow brings.,7,7,5,hobbies
+2025-12-08,"Did absolutely nothing productive today and it felt great, exactly the break I needed.",8,8,9,"weekend, sleep, rest"
+2025-12-09,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,7,7,weekend
+2025-12-10,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",7,2,4,"sleep, weekend, relaxation"
+2025-12-11,"Didn't get any run in today and felt sluggish because of it. Woke up tired and skipped yoga session entirely, energy was low all day. Need to get more rest tonight.",3,3,2,"fitness, exercise"
+2025-12-12,"Trip to the coast got cancelled today, which was disappointing.",3,7,6,"travel, adventure"
+2025-12-13,"Did a light yoga session session, nothing intense, just kept the habit going.",5,4,2,"health, wellbeing"
+2025-12-14,Thought about picking sketching back up today but didn't get to it.,5,6,3,"reading, creativity"
+2025-12-15,"Trip to the nearby hill station got cancelled today, which was disappointing. Trying not to be too hard on myself about it.",4,5,5,"adventure, travel"
+2025-12-16,"Couldn't really relax today even though I had the time, mind was too restless. Slept badly last night and it affected the whole day.",4,2,4,"rest, relaxation"
+2025-12-17,"Did a bit of Python practice today, nothing major, just consolidating overfitting.",4,5,6,python
+2025-12-18,"Spent some time reviewing Python, mostly going over hypothesis testing again. Nothing particularly stands out about today.",6,8,8,"learning, study"
+2025-12-19,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled the project deadline without much excitement. Just an ordinary day overall.",6,8,8,"career, productivity"
+2025-12-20,Slept badly last night and it affected the whole day.,3,6,2,"weekend, rest"
+2025-12-21,Struggled a lot with joins — data visualization is starting to feel overwhelming.,3,4,3,"study, data science"
+2025-12-22,Had a small disagreement with an old friend today which put a bit of a damper on the day. Trying not to be too hard on myself about it.,3,3,3,friends
+2025-12-23,"Despite the upcoming exam, I felt in control today and made good progress preparing for it. Managed my anxiety about the presentation well today by breaking the work into smaller pieces.",9,10,9,"stress, anxiety"
+2025-12-24,"Fairly average day at work, mostly just handled a backlog of emails without much excitement.",5,2,4,work
+2025-12-25,"Slept badly last night and it affected the whole day. Couldn't really relax today even though I had the time, mind was too restless.",1,1,5,rest
+2025-12-26,Thinking about the assignment due date a lot today but haven't really started preparing yet.,6,6,6,"exam, stress, anxiety"
+2025-12-27,Missed a call from my parents and felt a bit guilty about not making more time for them lately.,5,5,3,"family, relationships"
+2025-12-28,"Spent the evening on reading, completely lost track of time — it was exactly what I needed. Looking forward to more days like this.",7,6,5,"creativity, hobbies"
+2025-12-29,Slept badly last night and it affected the whole day. Today was harder than expected.,4,4,3,rest
+2025-12-30,"Thinking about the job interview a lot today but haven't really started preparing yet. The project deadline is coming up soon, feeling a mix of nervous and okay about it. Nothing particularly stands out about today.",6,6,7,"anxiety, deadline"
+2026-01-01,"Spent the evening on writing, completely lost track of time — it was exactly what I needed.",6,10,7,"hobbies, reading"
+2026-01-02,"Spent the evening on reading, completely lost track of time — it was exactly what I needed.",8,7,5,"reading, hobbies"
+2026-01-03,"Did a light run session, nothing intense, just kept the habit going. Skipped my usual run today but ate reasonably well.",4,7,7,"wellbeing, health"
+2026-01-04,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Ready to see what tomorrow brings.",5,4,3,relaxation
+2026-01-05,"Had a lovely time with my family — we just talked for hours and it lifted my mood a lot. Great day with a close friend, nothing planned but it turned out to be one of the better days recently. Overall a pretty good day.",7,9,6,"weekend, friends"
+2026-01-06,I made real progress on SQL today — hypothesis testing finally clicked after struggling with it for a while. Worked through a tricky problem involving hypothesis testing and felt genuinely satisfied once it worked.,7,8,7,"learning, coding, python"
+2026-01-07,"Saw a close friend briefly today, exchanged a few messages, nothing major. Quiet day, spoke with my parents for a bit over the phone.",6,5,7,"weekend, relationships, friends"
+2026-01-08,I made real progress on Python today — joins finally clicked after struggling with it for a while. Looking forward to more days like this.,7,9,9,"coding, python"
+2026-01-09,"Spent some time reviewing data visualization, mostly going over correlation vs causation again. Did a bit of Python practice today, nothing major, just consolidating gradient descent.",5,4,5,"data science, python, learning"
+2026-01-10,"Quiet day, spoke with my parents for a bit over the phone. Saw my sibling briefly today, exchanged a few messages, nothing major.",7,5,4,"relationships, weekend"
+2026-01-11,"Despite the upcoming project deadline, I felt in control today and made good progress preparing for it.",5,5,8,anxiety
+2026-01-13,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened.",6,4,6,"work, meetings"
+2026-01-14,"Despite the upcoming assignment due date, I felt in control today and made good progress preparing for it.",10,9,8,deadline
+2026-01-15,"Thinking about the job interview a lot today but haven't really started preparing yet. The job interview is coming up soon, feeling a mix of nervous and okay about it. Nothing particularly stands out about today.",3,6,7,"anxiety, deadline, exam"
+2026-01-16,"Slept badly last night and it affected the whole day. Couldn't really relax today even though I had the time, mind was too restless.",2,1,2,"sleep, relaxation"
+2026-01-17,"Saw my sibling briefly today, exchanged a few messages, nothing major. Just an ordinary day overall.",3,6,6,"weekend, relationships"
+2026-01-18,"Thinking about planning a trip to the coast sometime soon, haven't decided yet.",3,4,6,"weekend, adventure"
+2026-01-19,Slept badly last night and it affected the whole day. Today was harder than expected.,1,1,2,"relaxation, weekend"
+2026-01-21,Tried to study statistics today but kept getting stuck on hypothesis testing and felt frustrated.,4,4,6,"study, coding"
+2026-01-22,"Fairly average day at work, mostly just handled a few pending tickets without much excitement.",5,3,7,"career, meetings"
+2026-01-24,"Quiet day, spoke with my family for a bit over the phone. Nothing particularly stands out about today.",4,5,2,"friends, weekend, family"
+2026-01-25,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",7,7,3,"rest, relaxation, sleep"
+2026-01-26,"Saw my parents briefly today, exchanged a few messages, nothing major. Nothing particularly stands out about today.",6,3,4,"weekend, relationships, friends"
+2026-01-27,"Had a productive study session on machine learning, especially around feature engineering. Looking forward to more days like this.",7,7,10,data science
+2026-01-28,Thinking about the exam a lot today but haven't really started preparing yet. Nothing particularly stands out about today.,7,10,6,"stress, exam"
+2026-01-29,"Struggled to focus on a few pending tickets today, kept getting pulled into unnecessary meetings.",5,5,4,"work, productivity"
+2026-01-30,Struggled a lot with hypothesis testing — machine learning is starting to feel overwhelming. Trying not to be too hard on myself about it.,6,4,3,"data science, python, study"
+2026-01-31,"Good day overall, made solid progress on the quarterly report and the team meeting went smoothly. Had a really productive day at work — cleared most of my a client presentation and even helped a coworker with theirs.",7,7,7,"career, productivity, work"
+2026-02-01,Slept badly last night and it affected the whole day.,4,7,4,"sleep, relaxation"
+2026-02-03,"Thinking about the presentation a lot today but haven't really started preparing yet. The project deadline is coming up soon, feeling a mix of nervous and okay about it.",4,4,5,"exam, stress"
+2026-02-04,"Quiet day, spoke with an old friend for a bit over the phone. Saw my sibling briefly today, exchanged a few messages, nothing major. Just an ordinary day overall.",6,3,6,relationships
+2026-02-05,Skipped my usual run today but ate reasonably well.,5,3,7,"health, exercise, wellbeing"
+2026-02-06,Went for a swim this morning and felt really energized for the rest of the day.,8,5,9,"fitness, exercise"
+2026-02-07,"Explored a new part of the city for the first time — such a great way to break the routine. Took a short trip to the coast today, it was a nice change of scenery and really refreshing. Ending the day in a good mood.",5,7,7,"travel, weekend, adventure"
+2026-02-08,Worked through a tricky problem involving joins and felt genuinely satisfied once it worked. Grateful for how the day turned out.,7,7,8,"data science, study"
+2026-02-09,"Despite the upcoming job interview, I felt in control today and made good progress preparing for it.",5,7,8,"deadline, exam, anxiety"
+2026-02-10,Tried to study statistics today but kept getting stuck on correlation vs causation and felt frustrated.,3,5,2,"learning, python"
+2026-02-12,"Saw an old friend briefly today, exchanged a few messages, nothing major. Quiet day, spoke with an old friend for a bit over the phone.",5,5,8,"family, friends"
+2026-02-14,"Quiet day, spoke with my sibling for a bit over the phone. Just an ordinary day overall.",6,3,7,friends
+2026-02-15,Explored the countryside for the first time — such a great way to break the routine.,7,8,4,"travel, weekend"
+2026-02-16,"Despite the upcoming presentation, I felt in control today and made good progress preparing for it. Ending the day in a good mood.",7,7,7,"exam, deadline"
+2026-02-17,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled a few pending tickets without much excitement.",6,5,6,"work, meetings"
+2026-02-18,Thought about picking writing back up today but didn't get to it.,6,5,8,"creativity, reading"
+2026-02-19,"Felt pretty drained after dealing with the project deadline, didn't get much else done. Struggled to focus on the quarterly report today, kept getting pulled into unnecessary meetings. Today was harder than expected.",4,5,2,"productivity, meetings"
+2026-02-20,Worked through a tricky problem involving joins and felt genuinely satisfied once it worked. Grateful for how the day turned out.,10,10,9,"python, coding"
+2026-02-21,Thought about picking playing guitar back up today but didn't get to it. Did a bit of reading but got distracted halfway through.,6,7,7,"music, reading"
+2026-02-22,Did a bit of playing guitar but got distracted halfway through. Thought about picking photography back up today but didn't get to it.,5,7,7,"music, creativity, reading"
+2026-02-23,"Spent the evening on reading, completely lost track of time — it was exactly what I needed. Made good progress on writing today, felt really fulfilling. Grateful for how the day turned out.",8,6,6,"music, creativity"
+2026-02-24,"Struggled to focus on a client presentation today, kept getting pulled into unnecessary meetings. Felt pretty drained after dealing with a client presentation, didn't get much else done. Today was harder than expected.",2,5,4,"work, career, meetings"
+2026-02-25,"Did a light gym workout session, nothing intense, just kept the habit going. Skipped my usual swim today but ate reasonably well. Ready to see what tomorrow brings.",1,3,6,"wellbeing, health"
+2026-02-26,Struggled a lot with overfitting — statistics is starting to feel overwhelming.,5,2,6,"python, data science, study"
+2026-02-27,Read through some notes on joins but didn't get much hands-on machine learning practice done.,5,8,7,study
+2026-02-28,Did a bit of writing but got distracted halfway through.,5,5,5,reading
+2026-03-01,"Looked into travel options for a local market, nothing booked yet. Just an ordinary day overall.",5,8,5,"adventure, weekend"
+2026-03-02,"Took a proper rest day today, slept well and just recharged — much needed. Did absolutely nothing productive today and it felt great, exactly the break I needed.",9,10,10,"relaxation, weekend"
+2026-03-03,"Finished the project deadline ahead of schedule today, which felt great going into the weekend.",7,7,8,"work, meetings"
+2026-03-04,"Good day overall, made solid progress on a few pending tickets and the team meeting went smoothly. Finished a backlog of emails ahead of schedule today, which felt great going into the weekend. Looking forward to more days like this.",7,6,6,"career, work"
+2026-03-05,"Couldn't really relax today even though I had the time, mind was too restless. Need to get more rest tonight.",2,4,5,"rest, weekend"
+2026-03-06,"Read through some notes on correlation vs causation but didn't get much hands-on statistics practice done. Spent some time reviewing SQL, mostly going over overfitting again.",3,5,5,learning
+2026-03-07,Today I spent a few hours learning statistics and finally understood how hypothesis testing works. I made real progress on Python today — overfitting finally clicked after struggling with it for a while. Overall a pretty good day.,8,9,10,"learning, data science"
+2026-03-08,"Finished a few pending tickets ahead of schedule today, which felt great going into the weekend. Had a really productive day at work — cleared most of my the quarterly report and even helped a coworker with theirs.",8,7,7,productivity
+2026-03-09,I made real progress on SQL today — overfitting finally clicked after struggling with it for a while.,6,8,5,"study, data science"
+2026-03-10,Skipped my usual yoga session today but ate reasonably well. Just an ordinary day overall.,6,5,6,health
+2026-03-11,Thinking about the assignment due date a lot today but haven't really started preparing yet. Just an ordinary day overall.,3,4,3,"exam, anxiety"
+2026-03-12,"Fairly average day at work, mostly just handled the quarterly report without much excitement.",5,7,5,productivity
+2026-03-13,Thinking about the exam a lot today but haven't really started preparing yet.,4,6,5,stress
+2026-03-14,"Looked into travel options for the coast, nothing booked yet.",6,3,5,"adventure, travel"
+2026-03-15,Had a lovely time with a close friend — we just talked for hours and it lifted my mood a lot. Looking forward to more days like this.,9,9,9,"relationships, weekend, family"
+2026-03-16,"Despite the upcoming exam, I felt in control today and made good progress preparing for it. Ending the day in a good mood.",5,5,8,"anxiety, stress, exam"
+2026-03-17,"Did a light walk session, nothing intense, just kept the habit going. Skipped my usual run today but ate reasonably well.",6,4,2,"health, wellbeing, exercise"
+2026-03-18,"Barely got through any pandas today, my focus on joins kept slipping. Tried to study data visualization today but kept getting stuck on overfitting and felt frustrated.",1,3,3,study
+2026-03-19,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened.",6,6,4,work
+2026-03-20,Struggled a lot with feature engineering — machine learning is starting to feel overwhelming.,3,3,2,"python, data science"
+2026-03-21,"Had a productive study session on statistics, especially around gradient descent. Looking forward to more days like this.",6,10,5,"learning, study, python"
+2026-03-22,"Took a proper rest day today, slept well and just recharged — much needed. Did absolutely nothing productive today and it felt great, exactly the break I needed. Feeling optimistic about tomorrow.",6,6,9,rest
+2026-03-23,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,6,5,"sleep, relaxation"
+2026-03-24,"Had a productive study session on SQL, especially around overfitting.",7,5,7,"data science, study, learning"
+2026-03-25,Managed my anxiety about the job interview well today by breaking the work into smaller pieces.,7,5,6,"deadline, anxiety"
+2026-03-26,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",4,3,4,"rest, relaxation, sleep"
+2026-03-27,"Couldn't really relax today even though I had the time, mind was too restless.",5,5,4,"weekend, rest"
+2026-03-28,"Read through some notes on hypothesis testing but didn't get much hands-on statistics practice done. Spent some time reviewing pandas, mostly going over overfitting again.",5,4,3,"study, learning"
+2026-03-29,"Barely got through any statistics today, my focus on overfitting kept slipping.",4,3,4,"coding, python"
+2026-03-30,Read through some notes on overfitting but didn't get much hands-on data visualization practice done.,5,7,6,"study, python, coding"
+2026-03-31,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened. A fairly typical day, all things considered.",6,4,5,"career, work"
+2026-04-01,"The project deadline is coming up soon, feeling a mix of nervous and okay about it. Thinking about the assignment due date a lot today but haven't really started preparing yet.",7,3,6,"stress, exam"
+2026-04-02,"Felt physically great today after a solid swim routine. Managed to fit in a good yoga session session, my energy levels were noticeably higher afterward.",7,8,7,"health, fitness, wellbeing"
+2026-04-04,"Looked into travel options for a new part of the city, nothing booked yet.",4,3,7,"travel, adventure"
+2026-04-05,"Saw a close friend briefly today, exchanged a few messages, nothing major. Quiet day, spoke with my family for a bit over the phone.",4,3,2,"relationships, family"
+2026-04-06,"Thought about picking writing back up today but didn't get to it. Did a bit of writing but got distracted halfway through. A fairly typical day, all things considered.",4,6,6,hobbies
+2026-04-07,"Fairly average day at work, mostly just handled a client presentation without much excitement.",6,8,5,"career, meetings"
+2026-04-08,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",7,7,4,sleep
+2026-04-10,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Nothing particularly stands out about today.",6,6,5,career
+2026-04-11,"Looked into travel options for the countryside, nothing booked yet. Thinking about planning a trip to the countryside sometime soon, haven't decided yet. A fairly typical day, all things considered.",5,6,4,"travel, adventure"
+2026-04-12,"Spent most of the day on a client presentation, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled a backlog of emails without much excitement.",6,5,6,"productivity, career"
+2026-04-13,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Took a proper rest day today, slept well and just recharged — much needed. Grateful for how the day turned out.",8,10,9,"relaxation, weekend, rest"
+2026-04-14,Managed my anxiety about the exam well today by breaking the work into smaller pieces. Ending the day in a good mood.,7,8,9,"stress, deadline"
+2026-04-15,"Spent most of the day on the quarterly report, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled a client presentation without much excitement.",7,3,8,"productivity, meetings"
+2026-04-16,"Read through some notes on feature engineering but didn't get much hands-on pandas practice done. Spent some time reviewing machine learning, mostly going over correlation vs causation again.",7,5,5,"study, learning"
+2026-04-17,Thought about picking playing guitar back up today but didn't get to it. Did a bit of reading but got distracted halfway through.,6,6,7,"hobbies, creativity"
+2026-04-19,Had a small disagreement with my parents today which put a bit of a damper on the day. Trying not to be too hard on myself about it.,4,3,2,"relationships, friends, family"
+2026-04-20,"Barely got through any pandas today, my focus on overfitting kept slipping. Hoping tomorrow goes a bit better.",3,1,4,data science
+2026-04-21,Struggled a lot with hypothesis testing — SQL is starting to feel overwhelming. Tried to study statistics today but kept getting stuck on hypothesis testing and felt frustrated.,3,3,4,study
+2026-04-22,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled a client presentation without much excitement.",4,4,7,"work, productivity"
+2026-04-23,"Spent some time reviewing data visualization, mostly going over overfitting again. Just an ordinary day overall.",6,6,4,"python, data science"
+2026-04-24,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Nothing particularly stands out about today.",4,7,7,"relaxation, rest"
+2026-04-25,"Made good progress on photography today, felt really fulfilling. Feeling optimistic about tomorrow.",9,10,10,"hobbies, creativity"
+2026-04-26,Managed my anxiety about the project deadline well today by breaking the work into smaller pieces.,8,9,8,"stress, exam"
+2026-04-27,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,6,5,"relaxation, weekend"
+2026-04-28,Did a bit of reading but got distracted halfway through. Nothing particularly stands out about today.,6,6,4,"music, reading, hobbies"
+2026-04-29,"Finished a few pending tickets ahead of schedule today, which felt great going into the weekend. Grateful for how the day turned out.",8,6,7,"work, meetings, productivity"
+2026-04-30,Wanted to spend time on sketching today but couldn't find the motivation.,2,3,5,hobbies
+2026-05-01,Wanted to spend time on photography today but couldn't find the motivation.,5,3,5,"hobbies, music"
+2026-05-02,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,5,3,"weekend, relaxation"
+2026-05-03,Wanted to spend time on playing guitar today but couldn't find the motivation.,3,2,4,creativity
+2026-05-04,Read through some notes on gradient descent but didn't get much hands-on pandas practice done.,7,2,5,"study, python"
+2026-05-05,"Couldn't really relax today even though I had the time, mind was too restless. Slept badly last night and it affected the whole day.",3,4,1,relaxation
+2026-05-06,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened. Nothing particularly stands out about today.",8,5,6,"meetings, career"
+2026-05-07,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Ending the day in a good mood.",7,6,4,"weekend, sleep"
+2026-05-08,"Had a productive study session on data visualization, especially around correlation vs causation. I made real progress on Python today — overfitting finally clicked after struggling with it for a while. Overall a pretty good day.",7,5,7,"data science, coding, python"
+2026-05-09,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Nothing particularly stands out about today.",5,6,3,weekend
+2026-05-10,"Great day with my family, nothing planned but it turned out to be one of the better days recently.",6,7,9,"weekend, relationships, family"
+2026-05-11,"Great day with an old friend, nothing planned but it turned out to be one of the better days recently.",8,6,7,"family, relationships, weekend"
+2026-05-12,"Did a light swim session, nothing intense, just kept the habit going. Nothing particularly stands out about today.",6,6,6,"exercise, fitness"
+2026-05-13,"Did a light run session, nothing intense, just kept the habit going. Skipped my usual gym workout today but ate reasonably well. Ready to see what tomorrow brings.",4,5,7,"exercise, health, wellbeing"
+2026-05-14,Wanted to spend time on playing guitar today but couldn't find the motivation.,3,2,4,"creativity, music"
+2026-05-15,"Fairly average day at work, mostly just handled the quarterly report without much excitement. Ready to see what tomorrow brings.",6,5,3,"work, meetings"
+2026-05-16,"Took a short trip to the nearby hill station today, it was a nice change of scenery and really refreshing.",6,6,7,"adventure, travel"
+2026-05-17,Thought about picking sketching back up today but didn't get to it. Did a bit of reading but got distracted halfway through.,6,4,4,"reading, creativity, music"
+2026-05-18,Wanted to spend time on writing today but couldn't find the motivation. Trying not to be too hard on myself about it.,4,6,5,"hobbies, reading"
+2026-05-19,Went for a run this morning and felt really energized for the rest of the day.,10,7,8,health
+2026-05-20,Missed a call from a close friend and felt a bit guilty about not making more time for them lately. Need to get more rest tonight.,3,3,3,"weekend, friends, relationships"
+2026-05-21,"Woke up tired and skipped walk entirely, energy was low all day. Didn't get any swim in today and felt sluggish because of it.",3,2,5,"exercise, wellbeing, fitness"
+2026-05-22,"Felt pretty drained after dealing with a few pending tickets, didn't get much else done.",7,3,4,career
+2026-05-23,Wanted to spend time on playing guitar today but couldn't find the motivation.,5,5,3,"hobbies, creativity"
+2026-05-24,"Trip to a local market got cancelled today, which was disappointing.",4,2,5,"travel, adventure, weekend"
+2026-05-25,Read through some notes on hypothesis testing but didn't get much hands-on statistics practice done.,7,3,5,"coding, learning"
+2026-05-26,"Made good progress on reading today, felt really fulfilling. Spent the evening on playing guitar, completely lost track of time — it was exactly what I needed.",8,8,5,"reading, hobbies"
+2026-05-27,"Did a light run session, nothing intense, just kept the habit going. Skipped my usual yoga session today but ate reasonably well. Just an ordinary day overall.",7,4,6,"health, exercise"
+2026-05-28,"Spent most of the day on the project deadline, nothing particularly noteworthy happened. Just an ordinary day overall.",6,4,6,work
+2026-05-29,"Looked into travel options for the coast, nothing booked yet. Thinking about planning a trip to a new part of the city sometime soon, haven't decided yet.",5,4,5,"weekend, adventure"
+2026-05-30,"Saw my sibling briefly today, exchanged a few messages, nothing major. A fairly typical day, all things considered.",6,5,5,"family, weekend"
+2026-05-31,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",4,7,5,"sleep, rest, relaxation"
+2026-06-01,"Saw a close friend briefly today, exchanged a few messages, nothing major. Just an ordinary day overall.",7,3,3,"friends, weekend, family"
+2026-06-02,"Saw my parents briefly today, exchanged a few messages, nothing major. Just an ordinary day overall.",6,6,6,"weekend, family, relationships"
+2026-06-03,"Finished a backlog of emails ahead of schedule today, which felt great going into the weekend. Had a really productive day at work — cleared most of my a few pending tickets and even helped a coworker with theirs.",8,7,6,"career, meetings"
+2026-06-04,"Felt pretty drained after dealing with a client presentation, didn't get much else done. Hoping tomorrow goes a bit better.",3,4,3,work
+2026-06-05,Feeling really stressed about the presentation — couldn't focus on much else today. Anxiety about the job interview made it hard to get anything meaningful done today.,4,5,6,"deadline, exam, stress"
+2026-06-06,Slept badly last night and it affected the whole day. Need to get more rest tonight.,4,5,4,sleep
+2026-06-07,"The project deadline is weighing on me a lot, didn't sleep well because of it. Anxiety about the presentation made it hard to get anything meaningful done today.",4,5,3,"deadline, anxiety, stress"
+2026-06-09,Skipped my usual swim today but ate reasonably well.,5,8,5,"fitness, health"
+2026-06-10,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Ready to see what tomorrow brings.",5,6,3,"sleep, weekend"
+2026-06-11,"Struggled to focus on a few pending tickets today, kept getting pulled into unnecessary meetings. Need to get more rest tonight.",1,3,2,"work, productivity"
+2026-06-12,"Spent most of the day on a backlog of emails, nothing particularly noteworthy happened. Nothing particularly stands out about today.",5,4,5,"work, meetings, career"
+2026-06-13,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",6,6,4,"weekend, sleep"
+2026-06-14,"Read through some notes on feature engineering but didn't get much hands-on machine learning practice done. A fairly typical day, all things considered.",7,6,3,"learning, study, data science"
+2026-06-15,"Good day overall, made solid progress on a client presentation and the team meeting went smoothly. Finished the quarterly report ahead of schedule today, which felt great going into the weekend. Grateful for how the day turned out.",5,8,8,"career, meetings"
+2026-06-16,"The exam is coming up soon, feeling a mix of nervous and okay about it. A fairly typical day, all things considered.",6,6,7,"exam, stress, anxiety"
+2026-06-17,"Did a light run session, nothing intense, just kept the habit going. Nothing particularly stands out about today.",5,6,4,"fitness, wellbeing"
+2026-06-18,"Spent most of the day on a few pending tickets, nothing particularly noteworthy happened. Fairly average day at work, mostly just handled a client presentation without much excitement.",3,3,2,"meetings, work, productivity"
+2026-06-19,Read through some notes on correlation vs causation but didn't get much hands-on SQL practice done.,9,8,5,python
+2026-06-20,"Finished the project deadline ahead of schedule today, which felt great going into the weekend. Looking forward to more days like this.",9,7,7,work
+2026-06-21,"Struggled to focus on a backlog of emails today, kept getting pulled into unnecessary meetings. Felt pretty drained after dealing with a backlog of emails, didn't get much else done.",3,2,3,"career, work, productivity"
+2026-06-23,Wanted to spend time on writing today but couldn't find the motivation.,3,4,2,"creativity, hobbies"
+2026-06-24,Anxiety about the assignment due date made it hard to get anything meaningful done today.,1,3,3,"deadline, exam, anxiety"
+2026-06-25,Wanted to spend time on sketching today but couldn't find the motivation. Need to get more rest tonight.,3,2,1,"hobbies, creativity"
+2026-06-26,"Trip to the coast got cancelled today, which was disappointing.",5,5,4,adventure
+2026-06-27,"Did absolutely nothing productive today and it felt great, exactly the break I needed. Looking forward to more days like this.",5,7,6,"relaxation, rest"
+2026-06-28,"Quiet day, spoke with an old friend for a bit over the phone. Saw an old friend briefly today, exchanged a few messages, nothing major.",6,4,5,"relationships, family, friends"
+2026-06-30,"Skipped my usual swim today but ate reasonably well. Did a light yoga session session, nothing intense, just kept the habit going. Just an ordinary day overall.",3,8,3,"exercise, wellbeing"
+2026-07-01,"Quiet day, spoke with my sibling for a bit over the phone.",6,4,3,"family, relationships"
+2026-07-03,Struggled a lot with gradient descent — SQL is starting to feel overwhelming.,5,1,5,python
+2026-07-04,"Did a bit of statistics practice today, nothing major, just consolidating joins.",4,5,4,"data science, study, coding"
+2026-07-05,"Spent quality time with my parents today, it was really nice to just relax and catch up.",8,5,6,relationships
+2026-07-06,Slept badly last night and it affected the whole day.,6,3,7,relaxation
+2026-07-07,"Fairly lazy day overall, mixed a bit of rest with a few small chores. Just an ordinary day overall.",4,4,4,"sleep, relaxation"
+2026-07-08,Rough day at work — the quarterly report kept getting delayed and I felt behind the whole time.,4,2,1,productivity
+2026-07-09,"Fairly average day at work, mostly just handled a backlog of emails without much excitement.",3,4,4,"meetings, career"
+2026-07-11,"Trip to the nearby hill station got cancelled today, which was disappointing.",7,4,4,"adventure, travel, weekend"
+2026-07-12,Had a small disagreement with my sibling today which put a bit of a damper on the day. Hoping tomorrow goes a bit better.,2,3,1,weekend
+2026-07-13,"Despite the upcoming presentation, I felt in control today and made good progress preparing for it. Ending the day in a good mood.",5,6,6,"anxiety, deadline"
+2026-07-14,Thinking about the job interview a lot today but haven't really started preparing yet.,5,6,6,"anxiety, deadline, exam"
+2026-07-15,Had a small disagreement with my parents today which put a bit of a damper on the day. Missed a call from a close friend and felt a bit guilty about not making more time for them lately. Need to get more rest tonight.,5,5,4,friends
+2026-07-16,Thought about picking reading back up today but didn't get to it. Did a bit of photography but got distracted halfway through. Nothing particularly stands out about today.,6,4,4,music
+2026-07-17,"Fairly average day at work, mostly just handled a backlog of emails without much excitement. Spent most of the day on the project deadline, nothing particularly noteworthy happened.",7,4,7,"productivity, career"
+2026-07-18,Had a small disagreement with my family today which put a bit of a damper on the day.,3,5,3,"friends, family"
+2026-07-19,Thinking about the assignment due date a lot today but haven't really started preparing yet.,5,6,5,"anxiety, deadline, exam"
+2026-07-21,Feeling really stressed about the presentation — couldn't focus on much else today.,4,5,3,anxiety
+2026-07-22,"Barely got through any SQL today, my focus on correlation vs causation kept slipping. Struggled a lot with overfitting — Python is starting to feel overwhelming. Hoping tomorrow goes a bit better.",3,5,5,data science
+2026-07-24,"Did a light swim session, nothing intense, just kept the habit going. Nothing particularly stands out about today.",7,6,6,"exercise, fitness"
+2026-07-25,Skipped my usual walk today but ate reasonably well.,6,6,9,"health, wellbeing, fitness"
+2026-07-26,"Thinking about the job interview a lot today but haven't really started preparing yet. The job interview is coming up soon, feeling a mix of nervous and okay about it.",5,6,5,"deadline, exam"
+2026-07-27,Missed a call from my sibling and felt a bit guilty about not making more time for them lately. Had a small disagreement with my sibling today which put a bit of a damper on the day. Today was harder than expected.,4,3,2,"relationships, friends"
+2026-07-28,Worked through a tricky problem involving overfitting and felt genuinely satisfied once it worked. Overall a pretty good day.,8,5,10,"learning, data science"
+2026-07-29,Had a really productive day at work — cleared most of my a client presentation and even helped a coworker with theirs.,7,9,7,"work, meetings"
+2026-07-30,"Did a bit of data visualization practice today, nothing major, just consolidating gradient descent. A fairly typical day, all things considered.",5,6,6,coding
+2026-07-31,"Fairly lazy day overall, mixed a bit of rest with a few small chores.",5,6,6,"relaxation, sleep, rest"
+2026-08-01,Missed a call from my family and felt a bit guilty about not making more time for them lately. Had a small disagreement with my parents today which put a bit of a damper on the day. Trying not to be too hard on myself about it.,2,5,1,"family, relationships, weekend"
+2026-08-02,"Looked into travel options for the countryside, nothing booked yet. Nothing particularly stands out about today.",6,8,5,"adventure, travel"
+2026-08-03,Managed my anxiety about the assignment due date well today by breaking the work into smaller pieces.,6,7,8,exam
+2026-08-04,Did a bit of sketching but got distracted halfway through. Just an ordinary day overall.,6,4,5,"music, hobbies, reading"
+2026-08-05,"Took a short trip to a local market today, it was a nice change of scenery and really refreshing.",8,9,6,"weekend, travel, adventure"
+2026-08-06,"Struggled to focus on the project deadline today, kept getting pulled into unnecessary meetings. Trying not to be too hard on myself about it.",2,4,4,"productivity, career, work"
+2026-08-07,Skipped my usual gym workout today but ate reasonably well.,4,6,4,"exercise, wellbeing, health"
+2026-08-08,"Had a lovely time with my family — we went for a long walk and it lifted my mood a lot. Spent quality time with my family today, it was really nice to just relax and catch up. Ending the day in a good mood.",10,8,8,"weekend, family"
+2026-08-09,Thought about picking writing back up today but didn't get to it. Nothing particularly stands out about today.,4,5,3,"reading, music"
+2026-08-10,"Felt pretty drained after dealing with a backlog of emails, didn't get much else done.",5,4,4,meetings
+2026-08-11,"The project deadline is coming up soon, feeling a mix of nervous and okay about it. Nothing particularly stands out about today.",4,6,5,"stress, exam"
+2026-08-12,Read through some notes on correlation vs causation but didn't get much hands-on SQL practice done.,6,6,5,"learning, coding"
